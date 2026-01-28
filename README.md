@@ -16,7 +16,7 @@ I talk about Kubernetes, platform engineering, and cloud native security at conf
 
 ### Projects
 
-🖨️ [PrintFarmHQ](https://printfarmhq.io) — building a 3D printing farm.
+🖨️ [PrintFarmHQ](https://printfarmhq.io) — building a profitable 3D printing farm.
 
 ☸️ [Fury Kubernetes Distribution](https://github.com/sighupio/distribution) — the CNCF-certified K8s distro I built at SIGHUP.
 
