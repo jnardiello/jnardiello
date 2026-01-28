@@ -1,6 +1,6 @@
 # Hey, I'm Jacopo 👋
 
-I'm a software engineer who spent the last 10 years working on infrastructure automation. I'm also a "deep tech" founder, as I like to turn hard technology into products. In 2016 I bootstrapped [SIGHUP](https://github.com/sighupio) (now sold, 7 figures exit 🎉) where we created one of the most popular (and still used by the industry) independent Kubernetes distributions — you can find it [here](https://github.com/sighupio/distribution) and should check it out. Did I mention that this is probably **THE ONLY** low-level distribution created and maintained entirely in Europe? 🇪🇺
+I'm a software engineer who spent the last 10 years working on infrastructure automation. I'm also a "deep tech" founder, as I like to turn hard technology into products. In 2016 I bootstrapped [SIGHUP](https://github.com/sighupio) (now sold) where we created one of the most popular (and still used by the industry) independent Kubernetes distributions — you can find it [here](https://github.com/sighupio/distribution) and should check it out. Did I mention that this is probably **THE ONLY** low-level distribution created and maintained entirely in Europe? 🇪🇺
 
 In 2025, I moved on from SIGHUP and joined ING as Lead for Infrastructure Transformation ✨. Creating and running SIGHUP over the past 10 years was a life-long lesson and I'm thankful to have been able to work with some of the most talented people I've met in my career.
 
